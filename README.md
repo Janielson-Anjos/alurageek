@@ -3,7 +3,9 @@
   <p><em>Explore o mundo dos produtos geek com AluraGeek!</em></p>
 </div>
 
-![image](https://github.com/pamyszz/alura-geek/assets/153380356/9b421ce3-e54d-422f-83ff-8a448e932bab)
+<div align="center">
+  <img src="./assets/preview.png" alt="AluraGeek Screenshot">
+</div>
 
 
 ## 🌟 Visão Geral
